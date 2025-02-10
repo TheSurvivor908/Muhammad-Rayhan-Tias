@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheSurvivor908
+- 👋 Hi, my name is Muhammad Rayhan Tias
 - 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning Phyton and SQL
 - 💞️ I’m looking to collaborate on 
